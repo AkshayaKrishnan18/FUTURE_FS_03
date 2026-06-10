@@ -19,7 +19,7 @@ To design and develop a professional website that helps a local business:
 * Improve online visibility
 * Provide clear and accessible information
 * Build trust with customers
-* Increase walk-ins and engagement
+* Increase walk-ins and customer engagement
 
 ---
 
@@ -40,7 +40,7 @@ This website acts as a digital storefront by:
 * Presenting menu and services in a structured format
 * Showcasing ambience through a visual gallery
 * Providing easy access to contact and location
-* Enabling direct communication through a reservation/contact system
+* Enabling direct communication through a reservation system
 
 ---
 
@@ -56,24 +56,26 @@ This website acts as a digital storefront by:
 ## Features
 
 * Fully responsive design (mobile-first)
-* Clean and modern UI (velvet red and beige theme)
+* Clean and modern UI with a velvet red and beige theme
 * Structured menu section
-* Gallery for ambience and visual appeal
-* Testimonials for trust building
-* Reservation/contact form with EmailJS integration
-* Email notifications to both admin and customer
+* Interactive gallery showcasing the café ambience
+* Customer testimonials section
+* Google Maps integration for location access
+* Reservation form with EmailJS integration
+* Automatic email notifications for both café owner and customer
 
 ---
 
 ## Reservation Feature
 
-Users can reserve tables by selecting date and guest count, along with optional special requests such as celebrations, cake arrangements, and seating preferences.
+Users can reserve tables by selecting their preferred date, guest count, and optional special requests such as celebrations, cake arrangements, or seating preferences.
 
 The system:
 
 * Validates user input
 * Prevents invalid submissions
-* Sends confirmation emails to both the customer and café owner using EmailJS
+* Sends reservation details to the café owner via EmailJS
+* Sends an automatic confirmation email to the customer
 
 ---
 
@@ -84,15 +86,14 @@ The system:
 * Menu
 * Gallery
 * Testimonials
+* Location
 * Contact / Reservation
 
 ---
 
 ## Live
 
-https://future-fs-03-sigma-murex.vercel.app/
-
-https://velvetcupcafe.netlify.app/
+https://future-fs-03-s1sv.vercel.app/
 
 ---
 
@@ -104,6 +105,7 @@ https://github.com/AkshayaKrishnan18/FUTURE_FS_03
 
 ## Preview
 
+
 <img src="hero.png" width="80%" />
 <img src="menu.png" width="80%" />
 <img src="gallery.png" width="80%" />
@@ -111,32 +113,34 @@ https://github.com/AkshayaKrishnan18/FUTURE_FS_03
 <img src="reservation sec1.png" width="80%" />
 <img src="reservation sec2.png" width="80%" />
 <img src="reservation sec3.png" width="80%" />
-<img src="reservation.png" width="80%" />  
+<img src="reservation.png" width="80%" />
 <img src="confirmation.png" width="80%" />
 <img src="mobile.png" width="40%" />
+```
 
----
+
 
 ## Setup
 
-Clone the repository and open `index.html` in a browser.
+Clone the repository and open `index.html` in your browser.
 
 ---
 
 ## Key Learning
 
-* Building for real-world business scenarios
-* Understanding customer needs and expectations
+* Building a real-world business website
+* Understanding customer needs and user experience
 * Designing with business impact in mind
-* Implementing third-party services like EmailJS
+* Integrating third-party services using EmailJS
+* Developing responsive and modern web interfaces
 
 ---
 
 ## Contact
 
-* Email: [akshayakrishnan1810@gmail.com](mailto:akshayakrishnan1810@gmail.com)
-* GitHub: https://github.com/AkshayaKrishnan18
-* LinkedIn: https://linkedin.com/in/akshaya-krishnan-98722b294
+* **Email:** [akshayakrishnan1810@gmail.com](mailto:akshayakrishnan1810@gmail.com)
+* **GitHub:** https://github.com/AkshayaKrishnan18
+* **LinkedIn:** https://linkedin.com/in/akshaya-krishnan-98722b294
 
 ---
 
@@ -146,4 +150,4 @@ Submitted for:
 
 **Future Interns – Full Stack Web Development Internship (2026)**
 
-Task 3 – Local Business Website & Live Pitch Project
+**Task 3 – Local Business Website & Live Pitch Project**
